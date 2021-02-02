@@ -3,6 +3,6 @@
   <title>Hello PHP</title>
  </head>
  <body>
- <?php echo '<p>This is a Hello World PHP Code</p>'; ?> 
+ <?php echo '<p>Hello World PHP!!</p>'; ?> 
  </body>
 </html>
